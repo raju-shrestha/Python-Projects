@@ -1,0 +1,8 @@
+		Name|		Price|		Quantity|		Item type|
+	Book|		500|		10|		Stationery|
+	Copy|		100|		20|		Stationery|
+	Biscuits|		50|		200|		Food|
+	T-Shirts|		1500|		15|		Clothes|
+	Flying pan|		2000|		5|		Cooking|
+		Name|		Price|		Quantity|		Item type|
+	Biscuits|		500|		200|		Foods|
